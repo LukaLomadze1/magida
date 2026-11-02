@@ -97,7 +97,7 @@ export function Home() {
 
       <footer className="home__foot">
         <p>Built by <strong>Luka Lomadze</strong>. Café Kalaki is made up, and this demo is private to you: nobody else sees your orders.</p>
-        <a href="https://github.com/Lukaofficial/magida">Source on GitHub</a>
+        <a href="https://github.com/LukaLomadze1/magida">Source on GitHub</a>
       </footer>
     </div>
   );
